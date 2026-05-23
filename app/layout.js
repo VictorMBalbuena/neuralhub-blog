@@ -4,6 +4,9 @@ export const metadata = {
   title: 'NeuralHub — Herramientas de IA en Español',
   description: 'Reseñas, comparativas y guías de las mejores herramientas de Inteligencia Artificial. Todo en español, sin tecnicismos.',
   keywords: 'herramientas IA, inteligencia artificial, ChatGPT, Jasper, productividad IA, herramientas AI español',
+  verification: {
+    google: '5RQWNuvm8Ap0kvRWlBFlKGCdJAqKi_mXHtwvvdeKhE8',
+  },
   openGraph: {
     title: 'NeuralHub — Herramientas de IA en Español',
     description: 'Reseñas y guías de las mejores herramientas de IA.',
