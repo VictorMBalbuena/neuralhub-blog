@@ -45,7 +45,10 @@ export default function RootLayout({ children }) {
             <p className="footer-text">
               © {new Date().getFullYear()} NeuralHub. Hecho con ☕ en Argentina.<br />
               Algunos links son de afiliados — sin costo extra para vos,{' '}
-              <a href="/afiliados">leé más aquí</a>.
+              <a href="/sobre-mi">Sobre mí</a> ·{' '}
+              <a href="/contacto">Contacto</a> ·{' '}
+              <a href="/politica-de-privacidad">Privacidad</a> ·{' '}
+              <a href="/afiliados">Afiliados</a>
             </p>
           </div>
         </footer>
